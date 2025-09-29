@@ -14,7 +14,7 @@ This project provides insights into sales performance across regions and items.
 - `Dataset.csv` → Sample dataset  
 
 ## Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot 2025-09-27 163036.png)
 
 ## Tools Used
 - Power BI
